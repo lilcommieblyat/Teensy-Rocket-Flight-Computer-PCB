@@ -4,4 +4,4 @@
  
  Needs programming to be fully functional.
  
- ![alt text]()
+ ![alt text](https://github.com/lilcommieblyat/Teensy-Rocket-Flight-Computer-PCB/blob/master/preview.PNG)
